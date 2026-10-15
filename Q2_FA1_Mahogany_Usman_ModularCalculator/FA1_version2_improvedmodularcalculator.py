@@ -51,10 +51,10 @@ else:
 # Display the final result
 print("Result: ", result)
 
+
 """# Reflection
 
 Answer briefly:
-
 1. What functions did you create in your calculator program?
     - I created functions for addition, subtraction, multiplication, and division to perform the calculator's operations.
 2. What parameters did your functions use?
